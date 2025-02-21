@@ -1,0 +1,14 @@
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\bin\Debug\net8.0\StudentLibary.deps.json
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\bin\Debug\net8.0\StudentLibary.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\bin\Debug\net8.0\StudentLibary.pdb
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.AssemblyInfoInputs.cache
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.AssemblyInfo.cs
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.csproj.CoreCompileInputs.cache
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\refint\StudentLibary.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\StudentLibary.pdb
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentLibary\obj\Debug\net8.0\ref\StudentLibary.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentFunctions\bin\output\StudentLibary.deps.json
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentFunctions\bin\output\StudentLibary.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\StudentFunctions\bin\output\StudentLibary.pdb
