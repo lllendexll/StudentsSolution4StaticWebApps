@@ -1083,8 +1083,6 @@ D:\Software Projects\Dotnet Projects\BlazorStudents\obj\Debug\net9.0\compressed\
 D:\Software Projects\Dotnet Projects\BlazorStudents\obj\Debug\net9.0\compressed\i6blb8whcs-u6pwimbp1c.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.7snrkpiqte.pdb
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.7xt4p5qr1f.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8o8n7iomrf.js
@@ -1124,8 +1122,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.ercw56c645.pdb
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.wyfvn5e8yf.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.tlm3i6pt76.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.jadgrn67lq.wasm
@@ -1296,7 +1292,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Extensions.849myor78y.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.ercw56c645.pdb.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.reku4tedat.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\Microsoft.CSharp.0krj4ve566.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.quncyez9vs.wasm.gz
@@ -1330,7 +1325,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Primitives.2w82csd6tr.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.rubq0v1yiy.js.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.IO.Pipes.itag36er3p.wasm.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.7xt4p5qr1f.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.sa5zv0szr0.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.67y0knk64j.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.Vectors.xwm370m73u.wasm.gz
@@ -1384,7 +1378,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.1bvu7o7kso.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Net.Sockets.in1jyhlij3.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.Json.158hlj0e3x.wasm.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.wyfvn5e8yf.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Specialized.pf8o02gi88.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.vwdo924nyz.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.aep4lch3d1.wasm.gz
@@ -1474,7 +1467,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.3u89chdpwh.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.IO.Pipelines.hyk2aqc7g8.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.ServiceProcess.4n5pile68t.wasm.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.7snrkpiqte.pdb.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.IO.Compression.FileSystem.fga5z7h1wd.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.t8k8uawqmh.wasm.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\System.Dynamic.Runtime.zwh4o2uogo.wasm.gz
@@ -1708,7 +1700,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\BlazorStudents.AssemblyInfo.cs
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\BlazorStudents.csproj.CoreCompileInputs.cache
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\BlazorStudents.MvcApplicationPartsAssemblyInfo.cache
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\BlazorStudents.sourcelink.json
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Components.wasm
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -2163,11 +2154,6 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\nclc91qgq8-tjcz0u77k5.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\ag7evelydh-tptq2av103.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\lj8p9iop0q-lfu7j35m59.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\h2hgyfbtfo-wyfvn5e8yf.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\1cue0qis3c-ercw56c645.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\6wicqu4ie8-7xt4p5qr1f.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\vfx325urig-7snrkpiqte.gz
-D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\i6blb8whcs-qx0v8v52ux.gz
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\staticwebassets.build.json
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\staticwebassets.development.json
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -2182,3 +2168,16 @@ D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\n
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\refint\BlazorStudents.dll
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\BlazorStudents.pdb
 D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\ref\BlazorStudents.dll
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.nr3kgd9vcn.pdb
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.215mqxdj26.wasm
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.xhls6zeqhy.pdb
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.emep0aegyu.wasm
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.xhls6zeqhy.pdb.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.215mqxdj26.wasm.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\StudentLibary.emep0aegyu.wasm.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\bin\Debug\net9.0\wwwroot\_framework\BlazorStudents.nr3kgd9vcn.pdb.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\h2hgyfbtfo-emep0aegyu.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\1cue0qis3c-xhls6zeqhy.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\6wicqu4ie8-215mqxdj26.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\vfx325urig-nr3kgd9vcn.gz
+D:\Software Projects\Dotnet Projects\StudentsSolution\BlazorStudents\obj\Debug\net9.0\compressed\i6blb8whcs-5qdm5ojr0w.gz
