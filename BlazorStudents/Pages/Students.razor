@@ -11,32 +11,17 @@
 }
 else
 {
-    <table class="table">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>First Name</th>
-                <th>Last Name</th>
-                <th>School</th>
-                <th></th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in students)
-            {
-                <tr>
-                    <td>@item.StudentId</td>
-                    <td>@item.FirstName</td>
-                    <td>@item.LastName</td>
-                    <td>@item.School</td>
-                    <td><a class="btn btn-success btn-sm" href="/update/@item.StudentId">edit</a></td>
-                    <td><a class="btn btn-danger btn-sm" href="/delete/@item.StudentId">del</a></td> 
-
-                </tr>
-            }
-        </tbody>
-    </table>
+    <QuickGrid TItem="Student" Items="students.AsQueryable()">
+        <PropertyColumn Property="@((Student student) => student.StudentId)" Title="ID" Sortable="true" />
+        <PropertyColumn Property="@((Student student) => student.FirstName)" Title="First Name" Sortable="true" />
+        <PropertyColumn Property="@((Student student) => student.LastName)" Title="Last Name" Sortable="true" />
+        <PropertyColumn Property="@((Student student) => student.School)" Title="School" Sortable="true" />
+        
+        <TemplateColumn Title="Actions" Context="student">
+            <a class="btn btn-success btn-sm" href="/update/@student.StudentId">edit</a>
+            <a class="btn btn-danger btn-sm" href="/delete/@student.StudentId">del</a>
+        </TemplateColumn>
+    </QuickGrid>
 }
 
 @code {

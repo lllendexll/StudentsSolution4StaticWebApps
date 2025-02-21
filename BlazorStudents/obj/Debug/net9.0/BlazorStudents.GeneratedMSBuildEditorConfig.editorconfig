@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Software Projects/Dotnet Projects/StudentsSolution/BlazorStudents/Pages/Students_OLD.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNfT0xELnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Software Projects/Dotnet Projects/StudentsSolution/BlazorStudents/Pages/UpdateDelete.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlRGVsZXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
